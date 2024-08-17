@@ -30,7 +30,7 @@ The dataset is analyzed to understand the relationships between different featur
 - Jointplots: To explore the relationship between Length of Membership and Yearly Amount Spent.
 - Pairplots: To examine the interactions between all features.
 - Linear Regression Plots: To visualize the linear relationship between Length of Membership and Yearly Amount Spent.
-- 
+  
 # **Model Building:**
 
 A linear regression model is constructed using the following features:
